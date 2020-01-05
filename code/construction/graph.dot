@@ -1,0 +1,30 @@
+graph a{ 8--4;
+8--12;
+4--2;
+4--6;
+12--10;
+12--14;
+2--1;
+2--3;
+6--5;
+6--7;
+10--9;
+10--11;
+14--13;
+14--15;
+8[color = black, style = filled, fontcolor = white]
+4[color = black, style = filled, fontcolor = white]
+12[color = black, style = filled, fontcolor = white]
+2[color = black, style = filled, fontcolor = white]
+6[color = black, style = filled, fontcolor = white]
+10[color = black, style = filled, fontcolor = white]
+14[color = black, style = filled, fontcolor = white]
+1[color = black, style = filled, fontcolor = white]
+3[color = black, style = filled, fontcolor = white]
+5[color = black, style = filled, fontcolor = white]
+7[color = black, style = filled, fontcolor = white]
+9[color = black, style = filled, fontcolor = white]
+11[color = black, style = filled, fontcolor = white]
+13[color = black, style = filled, fontcolor = white]
+15[color = black, style = filled, fontcolor = white]
+}
