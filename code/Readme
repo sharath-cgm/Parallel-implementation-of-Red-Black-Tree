@@ -1,0 +1,5 @@
+This folder contains four sub-folders,
+basic- contains the tools, such a displaying a graph using Graphviz
+construction- code files involving construction of a red-black tree
+insertion- code files involving insertion into a red-black tree
+sequential- the sequential implementation of the red-black tree
